@@ -12,7 +12,7 @@
 <br />
 <br />
 
-<img src="./resources/re·coding·core.png" alt="re·coding·core" width="125" height="126" > 
+<img src="./profile/resources/re·coding·core.png" alt="re·coding·core" width="125" height="126" > 
 
 ### ```re·coding·core```
 > [@marmonto's](https://www.github.com/marmonto) learning quest repository project
